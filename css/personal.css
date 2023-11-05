@@ -1,0 +1,82 @@
+		div{
+			min-height:50px;
+			color:#434A72;
+			}
+		#banner{
+		background-color:white;
+		justify-content:space-around;
+		margin: 100px;
+			}		
+		h1{
+		font-family:verdana; sans-serif;
+		font-size: 50px;
+		text-align:center;
+		align-items:center;
+		}
+		h2{
+		font-family:verdana; sans-serif;
+		text-align:center;
+		}
+		h3{
+		color:white;
+		font-family:verdana; sans-serif;
+		text-align:center;
+		}
+		span, p{
+		font-family:verdana; sans-serif;
+		font-size: 20px;
+		text-align:justify;
+		margin:10px;
+		}	
+		.nav-link{
+		color:#003366;
+		font-family:'Raleway', sans-serif;
+		font-size:30px;
+		text-align:right;
+		align-items:right;
+			}
+		
+		.container_2{
+		background-image:url(images/bgimage.jpg);
+		background-repeat:no-repeat;
+		background-size:cover;
+		background-attachment:fixed;
+		background-color:#182153;
+		padding:5px;
+		width:auto;
+			}	
+		#box1{
+		padding:0px;
+		height:500px;
+		}
+		
+		#box3{
+		height: 300px;
+		padding:0px
+		}
+		#copy{
+		font-family:verdana; sans-serif;
+		font-size: 20px;
+		text-align:center;
+		color:white;
+		}
+		#footer, #bar{
+		background-color:#182153;
+		}
+	
+		textarea{
+		height:180px;
+		width:100%;
+		}
+	
+		#submit-button, #request{
+		color:white;
+		font-family:verdana; sans-serif;
+		border:2px solid #182153;
+		background-color:#182153;	
+		}
+		h3:hover, .nav-link:hover, 
+		 #submit-button:hover, 
+		#copy:hover, #request:hover{
+		color: orange;
+		}
